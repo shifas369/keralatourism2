@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#logo{
+    margin-left: 5%;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    height: 5rem;
+}
+#navbar{
+    position:sticky1;
+    top: 0;
+}
+.collapse{
+    font-size:large ;
+    
+    
+}
+.nav-item a{
+    
+    padding: 10px;
+    margin: 5px;
+}
+.collapse >ul>li>a:hover{
+    background-color: beige;
+    color: black !important;
+}
+
+
+.card{
+    background-color: blanchedalmond;
+}
+.card1{
+    background-color: paleturquoise;
+    margin-top: 10px;
+}
+
+#things{
+    height:   0rem;
+    width: 50rem;
+    align-items: center;
+}
+.thing{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-stretch: semi-condensed;
+    text-align: center;
+    color: brown;
+    font-size: xx-large;
+    border: 5px solid red;
+    background-color: beige;
+}
+.container {
+    width: 300px;
+    height: 50px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 8s;
+  }
+  
+  @keyframes example {
+    0%   {background-color: red;}
+    25%  {background-color: rgba(33, 40, 44, 0);}
+    50%  {background-color: blue;}
+    100% {background-color: rgba(26, 10, 45, 0.071);}
+  }
+  
+
+  body, html {
+    height: 100%;
+  }
+  .bg {
+    /* The image used */
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2019/05/07/ecosystem-tropical-rain-forest-fore-wallpaper.jpg);
+  
+    
+    height: 100%;
+  
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .about{
+    margin-top: 10px;
+    padding: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    font-size:x-large;
+    font-style: inherit;
+    
+  }
+  .about h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .about h3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+  }
+  .bgs{
+    background-image: url(https://cdn.wallpapersafari.com/14/51/JrTcWn.jpg);
+    height: 170%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .bgsa{
+    background-image: url(https://wallpaperaccess.com/full/1441947.jpg);
+    height: 200%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .bgt{
+    background-image: url(https://i.pinimg.com/474x/6e/96/dd/6e96dd667116a9169bdf2ac6222b08c6.jpg);
+    height: 230%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1opx;
+  }
+  .bgal{
+    background-image: url(https://img.freepik.com/free-vector/abstract-bokeh-lights-background_1409-1235.jpg?w=2000);
+    height: 230%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+  }
+  .pathanam{
+    padding: 10px;
+    background-color:antiquewhite;
+
+
+}
+
+
+
+
+.strength{
+    width: 25%;
+    display: inline-block;
+    position: relative;
+    height: 100%;
+    bottom: 5px;
+}
+#strength-bar{
+    background-color: #dcdcdc;
+    height: 10px;
+    position: relative;
+}
+.error
+{
+  color: red;
+  size: 80%
+}
+.hidden
+{
+  display:none;
+}
+
+
+  
+
+
+  
+
